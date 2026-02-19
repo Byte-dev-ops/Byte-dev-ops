@@ -50,7 +50,6 @@
 
 # 🐍 Contribution Snake
 
-> ⚠️ Make sure GitHub Action is enabled (steps below)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Byte-dev-ops/Byte-dev-ops/output/github-contribution-grid-snake-dark.svg" />
