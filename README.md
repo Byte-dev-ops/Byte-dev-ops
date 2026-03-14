@@ -40,39 +40,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Byte-dev-ops&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Byte-dev-ops/Byte-dev-ops/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Byte-dev-ops&icon=0&color=0" />
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
