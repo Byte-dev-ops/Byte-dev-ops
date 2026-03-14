@@ -38,8 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-dev-ops&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
