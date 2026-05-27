@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Byte%20Dev%20Ops&fontSize=40&fontAlignY=35" />
 </p>
