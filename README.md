@@ -19,7 +19,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stat
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Byte-dev-ops&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
