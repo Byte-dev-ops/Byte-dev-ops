@@ -9,7 +9,6 @@
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<div align="center">
 
 ---
 
