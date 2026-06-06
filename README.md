@@ -8,8 +8,6 @@
 </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
----
-
 💫 About Me                       
 - 🎓 I'm a Student and Web Developer.        
 - 🔭 I’m currently working on Web Development.   
@@ -20,7 +18,6 @@
 <h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
 <br>    
 
----
 
 ## Contribution Graph
 
