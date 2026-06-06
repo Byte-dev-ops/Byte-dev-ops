@@ -1,4 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Byte%20DevOps&fontSize=72&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=✦%20Developer%20from%20India%20✦%20Building%20scalable%20solutions&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header"/>
+
+<h1 align="center">
+  Hi There
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"
+       width="40">
+  I'm Mukul
+</h1>
+
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning,+Always+Building)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
