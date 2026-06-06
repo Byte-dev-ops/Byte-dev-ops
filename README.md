@@ -15,20 +15,6 @@
 
 ---
 
-## About Me
-
-```yaml
-name: Byte DevOps
-location: India
-role: Full Stack Developer | DevOps Engineer
-focus: Building scalable applications & cloud infrastructure
-
-currently:
-  - Working on exciting full-stack projects
-  - Learning advanced DevOps & Cloud technologies
-  - Exploring AI integrations
-  - Contributing to open source
-```
 
 ---
 
