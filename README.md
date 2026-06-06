@@ -11,15 +11,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning,+Always+Building)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+,Always+Building)](https://git.io/typing-svg)
-
 ---
+
+💫 About Me                       
+- 🎓 I'm a Student and Web Developer.        
+- 🔭 I’m currently working on Web Development.   
+- 🌱 I’m currently learning DSA.       
+- 👯 I’m looking to collaborate with open-source enthusiasts. 
+- 🥅 2026 Goals: Master MERN Stack, Machine Learning And strengthen DSA. 
+       
+<h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
+<br>    
 
 ## Tech Arsenal
 
