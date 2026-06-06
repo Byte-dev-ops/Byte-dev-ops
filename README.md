@@ -21,28 +21,6 @@
        
 <h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
 <br>    
-
-## Tech Arsenal
-
-<div align="center">
-
-### Languages
-![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash&theme=dark)
-
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark)
-
-### Backend & Database
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark)
-
-### Cloud & DevOps
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,jenkins&theme=dark)
-
-### Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
-
-</div>
-
 ---
 
 ## GitHub Stats
