@@ -6,7 +6,6 @@
        width="40">
   I'm Mukul
 </h1>
-
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ---
@@ -20,24 +19,6 @@
        
 <h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
 <br>    
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Byte-dev-ops&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-dev-ops&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-dev-ops&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</div>
 
 ---
 
