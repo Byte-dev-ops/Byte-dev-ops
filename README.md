@@ -26,11 +26,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Byte-dev-ops/Byte-dev-ops/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Byte-dev-ops/Byte-dev-ops/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Byte-dev-ops/Byte-dev-ops/output/github-snake.svg" width="100%"/>
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-Shahi&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 </div>
 
