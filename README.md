@@ -19,28 +19,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+,Always+Building)](https://git.io/typing-svg)
 
-<!-- Replace these links -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?style=for-the-badge)](#)
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](#)
-
-</div>
-
----
-
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![](https://github-trophies.vercel.app/?username=Byte-dev-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
 ---
 
 ## Tech Arsenal
